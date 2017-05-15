@@ -1,0 +1,23 @@
+name: stat_pycon
+dependencies:
+- python=3.6
+- ipython
+- jupyter_client
+- jupyter_core
+- ipywidgets
+- matplotlib
+- notebook
+- numpy
+- pandas
+- scikit-learn
+- scipy
+- seaborn
+- setuptools
+- pip
+- lxml
+- beautifulsoup4
+- xlrd
+- patsy
+- pip:
+    - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
+

@@ -10,12 +10,36 @@ This intermediate-level tutorial will provide students with hands-on experience 
 
 ## Outline
 
-- Data preparation
-- Building models of data
-- Making statistical comparisons
-- Estimating relationships among variables
-- Checking your models
+1. Data preparation
+2. Basic Bayesian inference 
+3. Fitting regression models
+4. Dealing with missing data
 
-## Software Installation
+## Getting the tutorial materials
 
-TBA
+Clone this repository into a directory of your choice.
+
+    git clone https://github.com/fonnesbeck/intro_stat_modeling_2017.git
+
+If you are not familiar with Git and GitHub, you can simply download the zip file of the repository at the top of the main repository page.
+
+Then, move to the directory created by the clone/zip file:
+
+    cd intro_stat_modeling_2017
+
+and install everything using `conda`:
+
+    conda config --add channels conda-forge
+    conda env create -f environment.yml
+    
+This will create an **environment** called `stat_pycon` that includes the packages required for the course.    
+    
+If you are not using the Anaconda Python distribution, you will need to manually install the packages listed in `environment.yml` using `pip`.
+
+Which you probably don't want to do.
+
+So [install Anaconda](https://www.continuum.io/downloads).
+
+To use the environment, you may type:
+
+    source activate stat_pycon
