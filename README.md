@@ -1,8 +1,9 @@
 # Introduction to Statistical Modeling with Python
 
-**Wednesday, May 17, 1:20 p.m.–4:40 p.m.**
+**Wednesday, May 17, 2017 1:20 p.m.–4:40 p.m.**
 
-Christopher Fonnesbeck
+Christopher Fonnesbeck  
+Vanderbilt University Medical Center
 
 ## Description
 
@@ -10,10 +11,11 @@ This intermediate-level tutorial will provide students with hands-on experience 
 
 ## Outline
 
-1. Data preparation
-2. Basic Bayesian inference 
-3. Fitting regression models
-4. Dealing with missing data
+1. Introduction *(1:20-1:40)*
+2. Data cleaning with Pandas *(1:40 - 2:10)*
+3. Basic Bayesian inference *(2:10 - 3:10)*
+4. Fitting Regression models *(3:15 - 4:15)*
+5. Dealing with missing data *(4:15 - 4:40)*
 
 ## Getting the tutorial materials
 
