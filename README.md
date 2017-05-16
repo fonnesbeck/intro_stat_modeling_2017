@@ -17,6 +17,12 @@ This intermediate-level tutorial will provide students with hands-on experience 
 4. Fitting Regression models *(3:15 - 4:15)*
 5. Dealing with missing data *(4:15 - 4:40)*
 
+## Software requirements
+
+This tutorial is based on **Python 3**. I cannot guarantee that the materials will work well with Python 2 or earlier, so ensure Python 3.5 or greater is installed on your system.
+
+I recommend installing the [Anaconda](https://www.continuum.io/downloads) distribution of Python 3, as it allows for the easy automation of package installation and virtual environment creation (see instructions below).
+
 ## Getting the tutorial materials
 
 Clone this repository into a directory of your choice.

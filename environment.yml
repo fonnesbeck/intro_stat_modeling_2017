@@ -4,6 +4,7 @@ dependencies:
 - ipython
 - jupyter_client
 - jupyter_core
+- html5lib
 - ipywidgets
 - matplotlib
 - notebook
