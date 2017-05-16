@@ -1,0 +1,79 @@
+Tonga	1	96165
+Bahamas	1	281584
+Jamaica	6	2589043
+Cuba	25	10952046
+Australia	41	18348078
+Hungary	21	10273590
+Bulgaria	15	8181047
+Trinidad & Tobago	2	1196910
+New Zealand	6	3621200
+Norway	7	4381275
+Belarus	15	10408773
+Netherlands	19	15532953
+Namibia	2	1641430
+Denmark	6	5262068
+Ireland	4	3632794
+Czech Republic	11	10312983
+Slovenia	2	1914388
+Switzerland	7	7197655
+Sweden	8	8859207
+Romania	20	22627565
+Germany	65	81885179
+Finland	4	5121511
+Greece	8	10511232
+Canada	22	29983162
+Nigeria	6	9032792
+Kazakstan	11	16881824
+France	37	58390513
+Italy	35	57336497
+South Korea	27	45647373
+Belgium	6	10156645
+Armenia	2	3393646
+Slovakia	3	5373191
+Croatia	2	4372670
+Ukraine	23	50879424
+Moldova	2	4450539
+Poland	17	38632597
+Spain	17	39811796
+Russia	63	147757004
+Mongolia	1	2468091
+Latvia	1	2495980
+Georgia	2	5216046
+United States	101	265462901
+Austria	3	8055908
+Yugoslavia	4	10774949
+Costa Rica	1	3451722
+Kenya	8	27956825
+Lithuania	1	3662418
+Puerto Rico	1	3782862
+Great Britain	15	58814763
+North Korea	5	21511993
+Portugal	2	9979834
+Israel	1	5420065
+Burundi	1	5430553
+Hong Kong	1	6419635
+Azerbaijan	1	7668253
+South Africa	5	42013377
+Zambia	1	8852751
+Japan	14	125555525
+Tunisia	1	9104682
+Algeria	3	28945551
+Malaysia	2	20044560
+Turkey	6	62127894
+Brazil	15	165209940
+Uzbekistan	2	23219707
+Argentina	3	35238756
+Ecuador	1	11862430
+Morocco	2	27989535
+Syria	1	14690501
+Mozambique	1	17777110
+Ethiopa	3	57337466
+Uganda	1	20842388
+Iran	3	62583991
+Taiwan	1	21448082
+China	50	1216387869
+Thailand	2	58852502
+Indonesia	4	209977606
+Philippines	1	74505812
+Mexico	1	94079999
+India	1	948910783
