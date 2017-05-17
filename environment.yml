@@ -4,7 +4,6 @@ dependencies:
 - ipython
 - jupyter_client
 - jupyter_core
-- html5lib
 - ipywidgets
 - matplotlib
 - notebook
@@ -21,4 +20,4 @@ dependencies:
 - patsy
 - pip:
     - git+https://github.com/pymc-devs/pymc3.git#egg=pymc3
-
+    - html5lib==1.0b8
