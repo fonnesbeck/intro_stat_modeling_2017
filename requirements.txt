@@ -1,0 +1,5 @@
+-e git+https://github.com/pymc-devs/pymc3.git#egg=Package
+pandas
+seaborn
+ipython
+notebook
