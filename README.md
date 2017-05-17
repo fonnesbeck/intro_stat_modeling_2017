@@ -1,5 +1,7 @@
 # Introduction to Statistical Modeling with Python
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/fonnesbeck/intro_stat_modeling_2017)
+
 **Wednesday, May 17, 2017 1:20 p.m.–4:40 p.m.**
 
 Christopher Fonnesbeck  
