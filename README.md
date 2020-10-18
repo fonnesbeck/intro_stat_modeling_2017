@@ -5,7 +5,7 @@
 **Wednesday, May 17, 2017 1:20 p.m.–4:40 p.m.**
 
 Christopher Fonnesbeck  
-Vanderbilt University Medical Center
+Vanderbilt University Medical Center.
 
 ## Description
 
